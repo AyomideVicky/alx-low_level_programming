@@ -1,3 +1,3 @@
-#!/bin/bash
-wget -P /tmp/ https://raw.github.com/ayovicky/alx-low_level_programming/master/0x18-dynamic_libraries/nrandom.so
-export LD_PRELOAD=/tmp/nrandom.so
+#!/bin/bash 
+ wget -P /tmp https://github.com/ayovicky/alx-low_level_programming/raw/main/0x18-dynamic_libraries/iwin.so 
+ export LD_PRELOAD=/tmp/iwin.so
